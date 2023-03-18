@@ -1,0 +1,27 @@
+:root,
+:root.light {
+  --bg-color: #ffffff;
+  --font-color-main: #06283d;
+  --title-color: #1363df;
+  --title-color-secondary: #47b5ff;
+  --item-bg: #e1e1e1;
+  --custom-card: rgba(210, 210, 210, 0.1);
+  --custom-card-hover: white;
+}
+:root.dark {
+  --bg-color: #06283d;
+  --font-color-main: #dff6ff;
+  --title-color: #1363df;
+  --item-bg: #646464;
+  --title-color-secondary: #47b5ff;
+  --custom-card: rgba(210, 210, 210, 0.1);
+  --custom-card-hover: rgba(210, 210, 210, 0.2);
+}
+
+$enphasis: #47b5ff;
+
+$nav-bg-color: #1363df;
+$nav-color: #dff6ff;
+
+$primary-font: #06283d;
+$secondary-font: #ffffffd8;

@@ -1,0 +1,28 @@
+[
+  {
+    "level": "Experto",
+    "names": ["Angular"]
+  },
+  {
+    "level": "Competente",
+    "names": [
+      "HTMl",
+      "Javascript",
+      "Typescript",
+      "CSS",
+      "SCSS",
+      "Bootstrap",
+      "Git",
+      "Gitlab",
+      "Api Rest",
+      "Redux",
+      "Jasmine",
+      "Karma",
+      "SCRUM"
+    ]
+  },
+  {
+    "level": "Principiante",
+    "names": ["Github", "Golang", "React", "SQL", "Docker", "AWS"]
+  }
+]

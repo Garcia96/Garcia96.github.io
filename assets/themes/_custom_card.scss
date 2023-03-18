@@ -1,0 +1,11 @@
+@import "./variables.scss";
+
+.custom-card {
+  margin-bottom: 1rem;
+  background-color: var(--custom-card);
+  cursor: pointer;
+}
+
+.custom-card:hover {
+  background-color: var(--custom-card-hover);
+}

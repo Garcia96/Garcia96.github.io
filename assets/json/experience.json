@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Solution Developer",
+    "company": "Intraway",
+    "location": "Bogota (Remoto)",
+    "duration": "Dic 2021 - Nov 2022",
+    "activities": [
+      "Migración del componente frontend del producto Suite en Angular 11+, el cual se encontraba construida en PHP.",
+      "Desarrollo de pruebas unitarias con Jasmine.",
+      "Consumo de servicios y tópicos para mostrar la información de aprovisionamiento de redes en los componentes web de la organización.",
+      "Resolución de bugs en ambientes integrados BE-FE en PHP 5.6"
+    ]
+  },
+  {
+    "role": "Junior Engineer",
+    "company": "NTT DATA Europe & LATAM",
+    "location": "Bogota (Remoto)",
+    "duration": "Mar 2021 - Dic 2021",
+    "activities": [
+      "Construcción de formularios reactivos usando Angular 10+.",
+      "Refactorización de antiguas funcionalidades de los componentes web del proyecto Frontend",
+      "Desarrollo de funcionalidades usando Angular 11+, RxJs, Bootstrap y NG-Bootstrap.",
+      "Desarrollo de pruebas unitarias con Jasmine y Karma",
+      "Integración de pipelines en el proyecto para el despliegue continuo."
+    ]
+  },
+  {
+    "role": "Junior Frontend Developer",
+    "company": "E-capture",
+    "location": "Bogota (Remoto)",
+    "duration": "Ene 2019 - Mar 2021",
+    "activities": [
+      "Soporte en sitio y remoto de proyectos para entidades financieras",
+      "Rework visual y desarrollo de plataforma de gestión documental web usando Angular 7+, RxJs, Angular Material, FUSE template, PrimeNG, Redux.",
+      "Desarrollo de formularios reactivos usando Angular 7+",
+      "Diseño e implementación de reportes.",
+      "Manejo de ambientes de desarrollo y pruebas (Windows, Linux), despliegue de código de forma manual (Angular, Golang)."
+    ]
+  }
+]
