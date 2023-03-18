@@ -1,0 +1,10 @@
+<div class="container my-5">
+  <div *ngFor="let data of experiences" class="my-5">
+    <h2>{{ data.role }}</h2>
+    <span class="company">{{ data.company }}</span
+    ><span> | {{ data.location }} | {{ data.duration }}</span>
+    <ul *ngFor="let activity of data.activities" class="list-group">
+      <li class="list-group-item list-group-item-light">{{ activity }}</li>
+    </ul>
+  </div>
+</div>

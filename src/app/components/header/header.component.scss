@@ -1,0 +1,18 @@
+@import "../../../assets/themes/variables.scss";
+
+.navbar-collapse {
+  flex-grow: initial;
+  font-size: 22px;
+}
+
+.navbar {
+  background-color: $nav-bg-color !important;
+}
+
+.nav-link {
+  color: $nav-color !important;
+}
+
+.nav-link.active {
+  color: $enphasis !important;
+}

@@ -1,0 +1,7 @@
+@use "./assets/themes/variables.scss" as *;
+@import "./assets/themes/custom_card";
+@import "./assets/themes/theme";
+
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}

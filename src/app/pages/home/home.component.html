@@ -1,0 +1,18 @@
+<div class="container mt-5">
+  <h1>Nicolás Garcia</h1>
+  <p>
+    Frontend developer con 4 años de experiencia en desarrollo de aplicaciones
+    web haciendo uso de diferentes tecnologías y frameworks, principalmente
+    Angular 7+. Me considero una persona con perspectiva para la solución de
+    problemas, afinidad para el trabajo en equipo, alto sentido de
+    responsabilidad y autodidacta. Estoy en proceso de graduación como Ingeniero
+    en Telemática
+  </p>
+  <h3>Habilidades</h3>
+  <div class="skills">
+    <div *ngFor="let skill of skills">
+      <h5>{{ skill.level }}:</h5>
+      <app-skills [names]="skill.names"></app-skills>
+    </div>
+  </div>
+</div>

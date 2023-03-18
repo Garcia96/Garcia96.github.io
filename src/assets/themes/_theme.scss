@@ -1,0 +1,26 @@
+@import "./variables.scss";
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color-main);
+}
+
+h1,
+h2 {
+  color: var(--title-color);
+}
+
+h3,
+h5 {
+  color: var(--title-color-secondary);
+}
+
+.item-bg {
+  background-color: var(--item-bg);
+}
+
+p {
+  font-size: 20px;
+  text-align: justify;
+  margin-bottom: 2rem;
+}
