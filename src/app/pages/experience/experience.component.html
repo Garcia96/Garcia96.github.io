@@ -3,8 +3,11 @@
     <h2>{{ data.role }}</h2>
     <span class="company">{{ data.company }}</span
     ><span> | {{ data.location }} | {{ data.duration }}</span>
-    <ul *ngFor="let activity of data.activities" class="list-group">
-      <li class="list-group-item list-group-item-light">{{ activity }}</li>
+    <ul
+      *ngFor="let activity of data.activities"
+      class="list-group list-group-flush"
+    >
+      <li class="list-group-item custom-group-item">{{ activity }}</li>
     </ul>
   </div>
 </div>
